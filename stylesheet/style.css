@@ -1,0 +1,451 @@
+.blog_nature{
+    color:red;
+    width:400px;
+    padding:40px;
+    margin:20px,20px;
+    background-image:url(../images/OIP.jpg);
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: justify;
+    background-size:cover;
+    font-family: sans-serif;
+    border-radius: 20px;
+    font-weight: bolder;
+    font-variant: small-caps;
+
+
+}
+.Technology_Blog{
+    color:white;
+    width:400px;
+    padding:20px;
+    margin:10px;
+    background-image:url(../images/OIP\ \(2\).jpg);
+    display: inline-block; 
+    text-align: justify;
+    box-sizing: border-box;
+    background-size: cover;
+    font-size: 16px;
+    font-family: arial;
+    font-weight: bolder;
+
+
+
+}
+.Technology_Blog h1{
+font-size: 24;
+font-family: arial;
+text-align: center;
+color: red;
+font-weight: bolder;
+}
+.blog_nature h1{
+font-size: 24;
+font-family: arial;
+text-align: center;
+color: rgb(11, 208, 28);
+font-weight: bolder;
+
+}
+
+.Game_Blog{
+    color:blue;
+    width:400px;
+    padding:40px;
+    margin:20px,20px;
+    background-image:url(../images/OIP\ \(4\).jpg);
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: justify;
+    background-size: cover;
+    font-size:24px;
+    font-weight: bolder;
+    border-bottom-right-radius: 25%;
+}
+.Game_Blog h1{
+    font-size: 26;
+    font-family: sans-serif;
+    text-align: center;
+    color: yellow;
+    font-style: italic;  
+    font-weight: bolder;
+}
+.Game_Blog a{
+    color:rgb(235, 239, 206);
+    padding:10px;
+    display: inline-block;
+    text-decoration: none;
+    background-color: red;
+    transition: 500ms;
+    border-radius: 10px;
+    font-family: Tahoma;
+
+}
+.blog_nature a{
+    color:rgb(220, 233, 183);
+    padding:10px;
+    display: inline-block;
+    text-decoration: none;
+    background-color: rgb(24, 23, 23);
+    transition: 500ms;
+    border-radius: 10px;
+
+}
+.blog_nature a:hover{
+    margin-left:50px;
+    background-color: rgb(67, 193, 17);
+}
+.Technology_Blog a{
+    color:white;
+    padding:10px;
+    display:inline-block;
+    text-decoration: none;
+    background-color: rgb(83, 5, 83);
+    text-align:center;
+    width:100px;
+    box-sizing: border-box;
+    margin-left:50px;
+    border-radius: 10px;
+    font-style: oblique;
+   
+}
+
+
+.Technology_Blog a span{
+    color:white;
+    display:inline-block;
+    text-decoration: none;
+    text-align:center;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-style:normal; 
+
+}
+.COLORs_Blog{
+    color:rgb(16, 43, 7);
+    width:400px;
+    padding:10px;
+    margin:20px,10px;
+    background-image:url(../images/OIP\ \(5\).jpg);
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: justify;
+    background-size: cover;
+    font-size:20px;
+    font-weight: bold;
+    font-style: italic;
+    border-radius: 10px;
+    font-variant: small-caps;
+}
+.COLORs_Blog h1{
+    font-size: 24;
+    font-family: arial;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+
+}
+.COLORs_Blog a{
+    color:rgb(240, 244, 203);
+    padding:10px;
+    display:inline-block;
+    background-color: rgb(92, 10, 10);
+    text-align:center;
+    width:100px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-style: oblique;
+   
+}
+.time_Blog{
+    color:red;
+    width:400px;
+    padding:40px;
+    margin:10px,10px;
+    background-image:url(../images/Android-Wear-Vs-Apple-Watch-13-300x200.jpg);
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: justify;
+    background-size:cover;
+    font-family: sans-serif;
+    border-radius: 20px;
+    font-weight: bolder;
+    font-variant: small-caps;
+    border-bottom-left-radius: 40%;
+    border-top-right-radius: 100px;
+}
+.time_Blog h1{
+    text-align: center;
+}
+.time_Blog a{
+    font-family: arial;
+    text-decoration: none;
+    width:100px;
+    margin: top 40px;
+    background-color:red;
+    color:antiquewhite;
+    padding: 15px;
+    border-bottom-left-radius: 60%;
+    border-top-right-radius: 40px;
+}
+.Smell_Blog{
+    color:red;
+    width:400px;
+    padding:40px;
+    margin:10px,10px;
+    background-image:url(../images/chanel.jpg);
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: justify;
+    background-size:cover;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-variant: small-caps; 
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 40px;
+}
+.Smell_Blog a{
+    font-family: arial;
+    text-decoration: none;
+    width:100px;
+    margin: top 40px;
+    background-color: rgb(126, 165, 42);
+    color:antiquewhite;
+    padding: 15px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.cook_Blog{
+    color:red;
+    width:400px;
+    padding:40px;
+    margin:10px,10px;
+    background-image:url(../images/coffee.jpg);
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: justify;
+    background-size:cover;
+    font-family: sans-serif;
+    border-radius: 20px;
+    font-weight: bolder;
+    font-variant: small-caps;  
+}
+.cook_Blog a{
+    font-family: arial;
+    text-decoration: none;
+    width:100px;
+    margin: top 40px;
+    background-color: rgb(61, 42, 165);
+    color:antiquewhite;
+    padding: 20px;  
+}
+.car_Blog{
+    color:red;
+    width:400px;
+    padding:40px;
+    margin:10px,10px;
+    background-image:url(../images/Land_Rover-Range_Rover_Sport-2012-1600-01.jpg);
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: justify;
+    background-size:cover;
+    font-family: sans-serif;
+    border-radius: 20px;
+    font-weight: bolder;
+    font-variant: small-caps;  
+}
+.car_Blog a{
+    font-family: arial;
+    text-decoration: none;
+    width:100px;
+    margin: top 40px;
+    background-color: rgb(241, 9, 9);
+    color:antiquewhite;
+    padding: 10px;  
+    box-sizing: border-box;
+    display: inline-block;
+    text-align: center;
+}
+.fun_Blog{
+    color:white;
+    width:400px;
+    padding:40px;
+    margin:10px,10px;
+    background-image:url(../images/OIP\ \(3\).jpg);
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: justify;
+    background-size:cover;
+    font-family: sans-serif;
+    border-radius: 20px;
+    font-weight: bolder;
+    font-variant: small-caps;  
+}
+.fun_Blog a{
+    font-family: arial;
+    text-decoration: none;
+    width:100px;
+    margin: top 40px;
+    background-color: rgb(241, 9, 9);
+    color:antiquewhite;
+    padding: 20px;  
+}
+.workplace_Blog{
+    color:rgb(241, 14, 14);
+    width:400px;
+    padding:40px;
+    margin:10px,10px;
+    background-image:url(../images/R\ \(1\).jpg);
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: justify;
+    background-size:cover;
+    font-family: sans-serif;
+    border-radius: 20px;
+    font-weight: bolder;
+    font-variant: small-caps;  
+}
+.workplace_Blog h1{
+    color:black;
+}
+.workplace_Blog a{
+    font-family: arial;
+    text-decoration: none;
+    width:100px;
+    margin: top 40px;
+    background-color: rgb(16, 15, 15);
+    color:antiquewhite;
+    padding: 20px;    
+}
+.pen_Blog{
+    color:rgb(241, 14, 14);
+    width:400px;
+    padding:40px;
+    margin:10px,10px;
+    background-image:url(../images/R\ \(2\).jpg);
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: justify;
+    background-size:cover;
+    font-family: sans-serif;
+    border-radius: 20px;
+    font-weight: bolder;
+    font-variant: small-caps;  
+}
+.pen_Blog h1{
+    color:blue;
+    text-align: center;
+}
+.pen_Blog a{
+    font-family: arial;
+    text-decoration: none;
+    width:100px;
+    margin: top 40px;
+    background-color: rgb(16, 15, 15);
+    color:antiquewhite;
+    padding: 20px;  
+}
+.coffe_Blog{
+    color:rgb(241, 14, 14);
+    width:400px;
+    padding:40px;
+    margin:10px,10px;
+    background-image:url(../images/R\ \(3\).jpg);
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: justify;
+    background-size:cover;
+    font-family: sans-serif;
+    border-radius: 20px;
+    font-weight: bolder;
+    font-variant: small-caps;  
+}
+}
+.coffe_Blog h1{
+    color:blue;
+    text-align: center;
+}
+.coffe_Blog a{
+    font-family: arial;
+    text-decoration: none;
+    width:100px;
+    margin: top 40px;
+    background-color: rgb(238, 10, 10);
+    color:antiquewhite;
+    padding: 20px; 
+    border-bottom-right-radius: 40px; 
+}
+.Business_Blog{
+    color:rgb(241, 14, 14);
+    width:400px;
+    padding:40px;
+    margin:10px,10px;
+    background-image:url(../images/R\ \(4\).jpg);
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: justify;
+    background-size:cover;
+    font-family: sans-serif;
+    border-radius: 20px;
+    font-weight: bolder;
+    font-variant: small-caps;  
+}
+.Business_Blog h1{
+    color:blue;
+    text-align: center;
+}
+.Business_Blog a{
+    font-family: arial;
+    text-decoration: none;
+    width:100px;
+    margin: top 40px;
+    background-color: rgb(16, 15, 15);
+    color:antiquewhite;
+    padding: 20px;  
+    border-top-right-radius: 20px;
+}
+.digital_Blog{
+    color:yellow;
+    width:400px;
+    padding:40px;
+    margin:10px,10px;
+    background-image:url(../images/technology.jpg);
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: justify;
+    background-size:cover;
+    font-family: sans-serif;
+    border-radius: 20px;
+    font-weight: bolder;
+    font-variant: small-caps;  
+    transition: 300ms;
+}
+.digital_Blog h1{
+    color:yellow;
+    text-align: center;
+    font-family:apple-system;
+    font-weight: bolder;
+    font-size: 28px;
+}
+.digital_Blog a{
+    font-family:apple-system;
+    text-decoration: none;
+    width:100px;
+    margin: top 40px;
+    background-color:yellow;
+    color:black;
+    padding: 20px;  
+    border-radius: 10px;
+    transition:500ms;
+}
+.digital_Blog a:hover{
+    margin:20px;
+    background-color:white;
+}
+.digital_Blog:hover{
+    margin-top: 20px;
+}
+
+
+    
+     
